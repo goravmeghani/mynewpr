@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///E:/UniWork/FYP/Implementation/thirtyPercent/frontendd/app/%5Busername%5D/page.js"],"sourcesContent":["'use client'\r\nimport React from 'react'\r\n\r\nconst Username = ({params}) => {\r\n  return (\r\n    <div>\r\n      {params.username}\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default Username\r\n"],"names":[],"mappings":";;;;AACA;AADA;;;AAGA,MAAM,WAAW,CAAC,EAAC,MAAM,EAAC;IACxB,qBACE,8OAAC;kBACE,OAAO,QAAQ;;;;;;AAGtB;uCAEe","debugId":null}}]
+}
